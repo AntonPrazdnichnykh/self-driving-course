@@ -7,7 +7,7 @@
 лог решения.
 
 Визуализация
-![record_1](visualizations/record_1.mp4)
+![record_1](visualizations/record_1.gif)
 
 ## Часть 2 ссылка
 Объехать уточку. Решение находится в файле ```item_2.py```
@@ -16,4 +16,4 @@
 лог решения.
 
 Визуализация
-![record_2](visualizations/record_2.mp4)
+![record_2](visualizations/record_2.gif)
